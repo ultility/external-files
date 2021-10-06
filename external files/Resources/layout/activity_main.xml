@@ -15,6 +15,16 @@
         android:layout_height="50dp"
         android:layout_width="match_parent"
         android:text="take photo"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/load"
+        android:text="load random"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/picker"
+        android:text="pick pic"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
